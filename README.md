@@ -1,4 +1,4 @@
-<h1 align="left">Devvery (front-end)</h1>
+<h1 align="left">Devvery-front-end</h1>
 
 ###
 
